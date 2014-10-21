@@ -1,4 +1,4 @@
 DJLMXservice
 ============
 
-This is gonna to be the service part and become the service broker to DJLMX.
+This is the service part int the form of service broker, and be invoked by the web app in repository of DJLMXapp.
